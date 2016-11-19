@@ -39,3 +39,14 @@ Jupyter Notebooks for the Connect Intensive MLND Program
       - Overview of `SVC` hyperparameters: `C`, `gamma`, `degree`, etc.
     - Visualize decision boundaries resulting from the different kernels
     - Practice with `GridSearchCV`
+  - `lesson-06-part-01.ipynb` : Clustering Mini-Project
+    - Perform [k-means clustering](http://scikit-learn.org/stable/modules/clustering.html#k-means) on the Enron Data Set.
+    - Visualize different clusters that form before and after feature scaling.
+    - Plot decision boundaries that arise from k-means clustering using two features.
+  - `lesson-06-part-02.ipynb` : PCA Mini-Project
+    - Perform Principal Component Analysis (PCA) on a large set of features.
+    - Recognize differences between `train_test_split()` and `StratifiedShuffleSplit()`.
+    - Introduce the `class_weight` parameter for `SVC()`.
+    - Visualize the eigenfaces (orthonormal basis of components) that result from PCA.
+  
+    
