@@ -13,6 +13,7 @@ The required packages and libraries vary in each of these Jupyter Notebooks. The
   - [numpy](http://www.numpy.org/)
   - [pandas](http://pandas.pydata.org/)
   - [sklearn](http://scikit-learn.org/stable/)
+  
 Each Lesson Notebook lists its own specific prerequisites along with the objectives.
 
 
@@ -67,5 +68,11 @@ Most lesson notebooks have a corresponding solutions notebook with the outputs o
     - Recognize differences between [`train_test_split()`](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) and [`StratifiedShuffleSplit()`](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html).
     - Introduce the `class_weight` parameter for `SVC()`.
     - Visualize the eigenfaces (orthonormal basis of components) that result from PCA.
-  
+    
+# Additional Resources
+I find that learning Python from Jupyter Notebooks is addictive. Here are some other great resources.
+  - [Thomas Corcoran's Connect Repo](https://github.com/tccorcoran/Connect): More notebooks prepared by another talented MLND Session Lead
+  - [Brandon Rhodes' PyCon 2015 Pandas Tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial): One of my favorite introductions to `pandas` with an accompanying [video lecture](https://www.youtube.com/watch?v=5JnMutdy6Fw).
+  - [Jake VanderPlas' Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial): An introduction to `sklearn`, also with an accompanying [video lecture](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
+  - [Kevin Markham's Machine Learning with Text in Scikit-learn Tutorial](https://www.youtube.com/watch?v=WHocRqT-KkU): If you want to get started with NLP using `sklearn`, Kevin's tutorial is a great introduction ([video lecture here](https://www.youtube.com/watch?v=WHocRqT-KkU)).
     
